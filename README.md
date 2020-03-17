@@ -13,8 +13,8 @@ and compression. This repository contains five projects exploring these concepts
 
 #### HW 2. Time-Frequency Analysis of Musical Pieces
 
-#### HW 3. Paint Can Trajectory
+#### HW 3. PCA Analysis on Paint Can Trajectory
 
-#### HW 4. Music Classification
+#### HW 4. Music Classification Algorithm
 
 #### HW 5. Neural Networks for Classifying Fashion MNIST
