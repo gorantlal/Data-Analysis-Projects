@@ -1,6 +1,6 @@
-# University of Washington: AMATH 482
+# University of Washington
 
-Lahari Gorantla | lg42@uw.edu
+Lahari Gorantla
 
 ### Course Description: 
 Exploratory and objective data analysis methods applied to the physical, engineering, and biological sciences. Brief review of statistical methods and their computational implementation for studying time series analysis, spectral analysis, filtering methods, principal component analysis, orthogonal mode decomposition, and image processing and compression. This repository contains five projects exploring these concepts. The first four projects are done in MATLAB while the fifth project is done in Python.
